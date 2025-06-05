@@ -23,7 +23,8 @@ const handleLimitChange = (e) => {
  
   return (
     <div className="overflow-x-auto ">
-      <div className='flex justify-end items-center'>
+      <div className='flex justify-between items-center'>
+        <h1>List Table</h1>
         <div className='flex items-center gap-4'>
           <div className="flex items-center gap-2">
       <div className="mb-2 block">
